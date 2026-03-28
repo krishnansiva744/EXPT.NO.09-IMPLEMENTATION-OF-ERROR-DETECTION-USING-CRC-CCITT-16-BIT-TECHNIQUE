@@ -4,7 +4,7 @@ To write a program for error Detection using Cyclic Redundancy Check (CRC-16 bit
 
 # EQUIPMENTS REQUIRED:
 1.	Personal Computer
-2.	C++ compiler
+2.	C++ compiler 
 
 # ALGORITHM:
 ```
